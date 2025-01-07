@@ -5,7 +5,7 @@
     "layout" : [ {
       "widget" : {
         "name" : "ea67bec2",
-        "textbox_spec" : "Hello World!"
+        "textbox_spec" : "Hello World!\n\nthis is some change"
       },
       "position" : {
         "x" : 0,
